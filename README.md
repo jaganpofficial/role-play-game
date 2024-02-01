@@ -57,7 +57,7 @@ Feel free to explore and modify the script to customize the game or add new feat
 ## Getting Started
 
 1. Clone the repository:
-   `git clone https://github.com/Erikote04/Role-Playing-Game.git`
+   `https://github.com/jaganpofficial/role-play-game.git`
   
 2. Open index.html in your preferred web browser.
 
